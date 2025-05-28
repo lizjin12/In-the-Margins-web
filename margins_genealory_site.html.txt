@@ -1,0 +1,4 @@
+                        <div class="source-links">
+                            <a href="https://www.myheritage.com/dna/origins/south-america" class="source-link" target="_blank" rel="noopener">📊 MyHeritage South America DNA</a>
+                            <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004572" class="source-link" target="_blank" rel="noopener">🧬 PLOS Genetics Full Study</a>
+                        </div>
