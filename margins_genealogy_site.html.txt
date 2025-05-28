@@ -1,0 +1,6 @@
+                        <div class="source-links">
+                            <a href="https://www.familysearch.org/search/collection/1974181" class="source-link" target="_blank" rel="noopener">🔗 FamilySearch PR Baptisms 1645-1969</a>
+                            <a href="https://www.boardforcertification.org/" class="source-link" target="_blank" rel="noopener">📋 GPS Standards (BCG)</a>
+                            <a href="https://www.icp.pr.gov/" class="source-link" target="_blank" rel="noopener">🏛️ Archivo General de Puerto Rico</a>
+                            <a href="https://translate.google.com" class="source-link" target="_blank" rel="noopener">📄 Google Translate (Spanish)</a>
+                        </div>
